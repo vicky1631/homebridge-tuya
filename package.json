@@ -20,7 +20,7 @@
     "tuya",
     "smartlife"
   ],
-  "author": "Milo Cesar <milocesar1@gmail.com>",
+  "author": "Vikram <lasvikram@gmail.com>",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
@@ -31,14 +31,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/milo526/homebridge-tuya-web"
+    "url": "https://github.com/vicky1631/homebridge-tuya.git"
   },
   "funding": {
     "type": "github",
-    "url": "https://github.com/sponsors/milo526"
+    "url": "https://github.com/vicky1631/homebridge-tuya.git"
   },
   "bugs": {
-    "url": "https://github.com/milo526/homebridge-tuya-web/issues"
+    "url": "https://github.com/vicky1631/homebridge-tuya.git"
   },
   "dependencies": {
     "axios": "^0.24.0",
